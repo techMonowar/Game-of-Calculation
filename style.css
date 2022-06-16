@@ -181,3 +181,9 @@ footer{
   /* text-shadow:2px 2px 4px #fafffa; */
 
 }
+
+#ans{
+  margin-top: 2rem;
+  font-size: 2rem;
+  color: #014c5f;
+}
