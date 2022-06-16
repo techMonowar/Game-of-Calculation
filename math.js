@@ -14,8 +14,7 @@ let el3 = Math.floor(Math.random()*100)+1;
 
 let eq = el1+signs[sign]+el2+signs[sign]+el3;
 
-
-result = document.getElementById("equation").innerHTML = eq;
+document.getElementById("equation").innerHTML = eq;
 
 const form = document.querySelector('form#form');
 const input = document.querySelector('input#input');
