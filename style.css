@@ -57,12 +57,13 @@ nav li a:hover{
   margin-left: 10px;
   text-decoration: none;
   color: rgb(15, 14, 14);
- font-size: 30px;
+ font-size: 1.8rem;
+ font-weight: 600;
  /* text-shadow: 2px 2px 4px #4fff84; */
  color: rgb(16, 59, 26);
 }
 
-li a{
+a{
   margin-left: 35px;
   text-decoration: none;
   color: rgb(43, 0, 0);
