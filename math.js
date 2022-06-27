@@ -26,6 +26,6 @@ form?.addEventListener("submit",(e)=>{
         document.getElementById("ans").innerHTML = "Correct";
         return
     }
-    document.getElementById("ans").innerHTML = "In Correct";
+    document.getElementById("ans").innerHTML = "InCorrect";
 })
 
